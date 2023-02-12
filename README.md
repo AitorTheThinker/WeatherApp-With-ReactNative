@@ -1,1 +1,1 @@
-#My first App
+#Prototype Weather App with functional searchbar
